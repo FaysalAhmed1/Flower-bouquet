@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+}
+.top{
+    margin: 20px 10px;
+    text-align: center;
+    background-color: rgba(146, 16, 158, 0.733);
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    
+}

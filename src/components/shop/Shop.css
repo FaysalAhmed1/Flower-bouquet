@@ -1,0 +1,20 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.product-container{
+
+    display: grid;
+    grid-template-columns:  1fr 1fr 1fr;
+}
+
+.cart-container{
+
+    margin: 20px;
+    text-align: center;
+    background-color: rgba(206, 15, 206, 0.5);
+    border-radius: 10px;
+    padding: 20px;
+    color: rgb(248, 242, 242);
+}
